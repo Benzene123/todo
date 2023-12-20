@@ -1,0 +1,14 @@
+body {
+    background-color: rgb(17, 17, 70);
+    
+}
+
+
+
+.title {
+    color: white;
+}
+
+.hide {
+    display: none !important;
+}
